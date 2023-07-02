@@ -30,7 +30,7 @@ border-radius.px:20
 spacing.fixed.px: 50
 
 -- ftd.image:
-src: $assets.files.images.Profilepic.jpg
+src: $assets.files.assets.Profilepic.jpg
 height: fill-container
 border-radius.px:20
 
